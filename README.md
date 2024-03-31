@@ -40,6 +40,6 @@ To install LazyVim, follow these simple steps in [repos](https://github.com/tran
    git clone https://github.com/tranlynhathao/MyLazyVim.git
    ```
 
-## Note: Make sure you have Neovim installed before proceeding with these steps.
+**Note:** Before proceeding with these steps, ensure that Neovim is installed on your system.
 
 
