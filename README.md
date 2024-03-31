@@ -15,6 +15,10 @@ LazyVim is a lightweight plugin for Vim that enhances productivity by providing 
 - **Syntax Highlighting**: Enjoy syntax highlighting for various programming languages.
 - **Customization**: Customize LazyVim to fit your workflow and preferences.
 
+<div style="display: flex;">
+    <img src="lazyvim.jpg" alt="LazyVim" style="width: 50%;">
+    <img src="lazyvim_gruvbox.jpg" alt="LazyVim_Gruvbox" style="width: 50%;">
+</div>
 
 ## Installation
 
