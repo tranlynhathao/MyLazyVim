@@ -11,6 +11,10 @@ LazyVim is a lightweight plugin for Vim that enhances productivity by providing 
 - **Syntax Highlighting**: Enjoy syntax highlighting for various programming languages.
 - **Customization**: Customize LazyVim to fit your workflow and preferences.
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/292349/213446185-2db63fd5-8c84-459c-9f04-e286382d6e80.png">
+</div>
+
 ## Installation
 
 To install LazyVim, follow these simple steps in [repos](https://github.com/tranlynhathao/LazyVim)
