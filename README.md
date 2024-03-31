@@ -17,11 +17,11 @@ LazyVim is a lightweight plugin for Vim that enhances productivity by providing 
 
 <div style="display: flex; flex-direction: row; align-items: center; justify-content: space-around;">
     <div style="text-align: center;">
-        <img src="lazyvim.png" alt="LazyVim" style="width: 75%;">
+        <img src="lazyvim.png" alt="LazyVim" style="width: 100%;">
         <p><b>LazyVim</b></p>
     </div>
     <div style="text-align: center;">
-        <img src="lazyvim_gruvbox.png" alt="LazyVim_Gruvbox" style="width: 75%;">
+        <img src="lazyvim_gruvbox.png" alt="LazyVim_Gruvbox" style="width: 100%;">
         <p><b>LazyVim_Gruvbox</b></p>
     </div>
 </div>
