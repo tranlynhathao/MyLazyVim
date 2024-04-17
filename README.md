@@ -28,7 +28,7 @@ LazyVim is a lightweight plugin for Vim that enhances productivity by providing 
 
 # Setting Up MyLazyVim
 
-To install LazyVim, follow these simple steps in [repos](https://github.com/tranlynhathao/LazyVim) or you can install it in the style of tranlynhathao into the configuration file .config/nvim/ on your local computer following these steps:
+To install Neovim, follow these simple steps in [repos](https://github.com/neovim/neovim/blob/master/INSTALL.md) or you can install it in the style of tranlynhathao into the configuration file .config/nvim/ on your local computer following these steps:
 
 1. Navigate to the `.config/nvim/` directory:
    ```bash
